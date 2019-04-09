@@ -23,5 +23,3 @@ Add the NPM run command by adding:
     "compile_lang": "node src/lang/compile.js"
   },
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
