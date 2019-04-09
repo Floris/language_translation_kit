@@ -17,10 +17,10 @@ var home_language_kit_object = {
     lang_en_home: en_home.lang_en_home
 };
 
-// write new object
-createHomeLanguageKit(home_language_kit, home_language_kit_object);
+// create New Home Language Kit
+createLanguageKit(home_language_kit, home_language_kit_object);
 
-function createHomeLanguageKit(fileName, output) {
+function createLanguageKit(fileName, output) {
     console.log('create HomeLanguageKit');
     // console.log('create HomeLanguageKit', output); //debug
 
