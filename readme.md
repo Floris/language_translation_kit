@@ -1,6 +1,6 @@
 # language translation kit voor co2ok
 
-## Execute compile
+## Execute language file compiler
 
 ``` bash
 # clone repository
