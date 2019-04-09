@@ -19,7 +19,7 @@ npm run compile_lang
 Add the NPM run command by adding:
 
 ```
-# "scripts": {
+"scripts": {
     "compile_lang": "node src/lang/compile.js"
   },
 ```
