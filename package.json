@@ -1,0 +1,11 @@
+{
+  "name": "language_translation_kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile_lang": "node src/lang/compile.js"
+  },
+  "author": "Floris Droppert",
+  "license": "ISC"
+}
