@@ -1,4 +1,4 @@
-# language translation kit voor co2ok
+# language translation kit
 
 ## Execute language file compiler
 
